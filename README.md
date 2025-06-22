@@ -38,6 +38,9 @@ You can then call the API in your backend.
 
 This chatbot frontend is ideal for use cases such as:
 • Customer support AI
+
 • Personal AI assistants
+
 • Knowledge base bots
+
 • Educational help bots
